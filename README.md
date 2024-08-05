@@ -1,4 +1,4 @@
-# Curiosity Engaged: AI Tools for Animating Empathy Practice
+# Curiosity Engaged: AI Tool for Animating Empathy Practice
 
 PUBLIC VOTING IS NOW OPEN UNTIL AUGUST 18, 2024.
 
