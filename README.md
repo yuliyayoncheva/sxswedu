@@ -42,10 +42,10 @@ Your vote supports a dive into:
 * Storytelling blended with structured, experiential learning to hone empathy skills.
 * AI capabilities to tailor learning experiences that accelerate mastery.
 
-Vote before August 18:
+Vote before August 18: https://panelpicker.sxsw.com/vote/149620 
 
 ## Expand Your Empathy Toolkit  
 
 Consider **The Art of Empathy: NYU x Whitney Museum Collaboration**, our 90-minute workshop in the Teaching & Learning track. Your vote can bring this complementary session to SXSW EDU 2025!
 
-Vote today:
+Vote today: https://panelpicker.sxsw.com/vote/153324
