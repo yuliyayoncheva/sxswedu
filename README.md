@@ -1,6 +1,6 @@
 # Curiosity Engaged: AI Tool for Animating Empathy Practice
 
-PUBLIC VOTING IS NOW OPEN UNTIL AUGUST 18, 2024.
+PUBLIC VOTING IS NOW OPEN UNTIL AUGUST 18, 2024: https://panelpicker.sxsw.com/vote/149620
 
 [🎥 #PANELPICKER #SXSWEDU2025 #FUTUREOFTECH](https://www.youtube.com/watch?v=ds73Pah4gM4)
 
@@ -14,9 +14,10 @@ Introducing [Denise the Empathy Elephant™,](https://www.empathyproject.com/den
 ) our educational film showcases the transformation from assumption-driven to curiosity-led interactions. In the classroom, we wrap guided discussion and reflection exercises around its narrative to catalyze learner engagement. 
 The film was created by our unique think-tank of filmmakers and physician-educators. 
 
-<img width="2524" alt="Thumbnail-AI" src="https://github.com/user-attachments/assets/d60287f8-a864-412e-a7bb-6551072ec9f8">
+🎥 click below to watch _The Elephant in the Waiting Room_ 🎥 
+[![The Elephant in the Waiting Room](https://github.com/yuliyayoncheva/sxswedu/blob/main/WIDE%20OG%20DEE%20MO.png)](https://www.youtube.com/watch?v=d8feuAvxDlI)
 
-
+ 
 
 ### Immersive Practice
 At our [New York Simulation Center for the Health Sciences](https://www.nysimcenter.org/sposce-programs) learners interact with trained ‘standardized patient’ actors in role-play scenarios, and receive expert feedback. This hands-on approach reinforces competency-based learning and objective skill assessment.
